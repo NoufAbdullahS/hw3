@@ -118,4 +118,10 @@ footer {
 #intro {
   text-align: center;
   font-weight: bold;
+  #intro {
+  text-align: center;
+  font-weight: bold;
+  border-bottom: 0.15rem solid #2c3e50;
+  padding-bottom: 0.5rem;
+}
 }
