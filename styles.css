@@ -35,6 +35,10 @@ nav a {
   text-decoration: none;
 }
 
+nav a:hover {
+  text-decoration: underline;
+}
+
 h1 {
   font-size: 2rem;
   font-weight: bold;
@@ -52,6 +56,7 @@ h2 {
 p {
   font-size: 1rem;
   text-align: left;
+  font-style: normal;
 }
 
 ul {
@@ -92,6 +97,10 @@ figure {
 img {
   max-width: 100%;
   height: auto;
+}
+
+figcaption {
+  font-style: italic;
 }
 
 footer {
